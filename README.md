@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Coddeus
-- 🎨 Youtube (in French) : https://www.youtube.com/channel/UCRGrQ3MJ3YtOjvfcL9Dcztg
+- 🎨 Youtube coding channel : https://www.youtube.com/channel/UCRGrQ3MJ3YtOjvfcL9Dcztg
 
 <!---
 Coddeus/Coddeus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
