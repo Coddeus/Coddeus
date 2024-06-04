@@ -1,3 +1,8 @@
+### Archived since 06/04/2024
+Little to no contributions will be made from now on.  
+Enjoy browsing this little piece of mind!
+
+-----
 - 👋 Hi, I’m @Coddeus
 - 🎨 Youtube channel : https://www.youtube.com/channel/UCRGrQ3MJ3YtOjvfcL9Dcztg
 
